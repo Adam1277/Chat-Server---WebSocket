@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="WSChatServer:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb05dd24-406c-44aa-9d85-740fa3f4e9bb" name="Changes" comment="Final commit with commenting">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AdamLevere1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/OntarioTech-CS-program/w24-csci2020u-assignment02-levere-khan-manrique&quot;,
+    &quot;accountId&quot;: &quot;1d2a90cf-a0d6-4849-9109-8d57506f0dc0&quot;
+  }
+}</component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2eFWpVzfGBwrSRbHSxVLaAHd0uy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;GlassFish Server.GlassFish 7.0.9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adaml\OneDrive\Documents\2020U - Software Systems Dev and Int\Labs\w24-csci2020u-assignment02-levere-khan-manrique\src\main\webapp\images" />
+      <recent name="C:\Users\adaml\OneDrive\Documents\2020U - Software Systems Dev and Int\Labs\w24-csci2020u-assignment02-levere-khan-manrique\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GlassFish 7.0.9" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 7.0.9" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="openjdk-21" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/WSChatServer-1.0-SNAPSHOT/ws" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="WSChatServer:war exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="WSChatServer:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb05dd24-406c-44aa-9d85-740fa3f4e9bb" name="Changes" comment="" />
+      <created>1711500989602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711500989602</updated>
+      <workItem from="1711500991015" duration="468000" />
+      <workItem from="1711559749449" duration="17000" />
+      <workItem from="1712340372862" duration="666000" />
+      <workItem from="1712341404896" duration="49000" />
+      <workItem from="1712341510000" duration="5907000" />
+      <workItem from="1712396819581" duration="7908000" />
+      <workItem from="1712441270979" duration="8578000" />
+      <workItem from="1712509187971" duration="35000" />
+      <workItem from="1712509768639" duration="80000" />
+      <workItem from="1712530400430" duration="191000" />
+      <workItem from="1712535783482" duration="1228000" />
+      <workItem from="1712540093719" duration="48000" />
+      <workItem from="1712540181478" duration="601000" />
+      <workItem from="1712602180242" duration="806000" />
+      <workItem from="1712604977115" duration="723000" />
+      <workItem from="1712606195090" duration="143000" />
+      <workItem from="1712606417329" duration="1458000" />
+      <workItem from="1712608683667" duration="304000" />
+      <workItem from="1712609364354" duration="1047000" />
+      <workItem from="1712610426542" duration="4416000" />
+      <workItem from="1712629712229" duration="6273000" />
+      <workItem from="1712669457539" duration="1834000" />
+      <workItem from="1712671375123" duration="1382000" />
+      <workItem from="1712695991498" duration="1208000" />
+      <workItem from="1712703585784" duration="164000" />
+      <workItem from="1712703780126" duration="53000" />
+      <workItem from="1712703836962" duration="8000" />
+      <workItem from="1712704094916" duration="9501000" />
+      <workItem from="1712714975705" duration="301000" />
+      <workItem from="1712715798178" duration="989000" />
+      <workItem from="1713200388589" duration="185000" />
+      <workItem from="1713200663784" duration="3217000" />
+      <workItem from="1713206440868" duration="40000" />
+      <workItem from="1713219174634" duration="1499000" />
+      <workItem from="1713220774649" duration="7000" />
+      <workItem from="1713220791866" duration="247000" />
+      <workItem from="1713316420668" duration="555000" />
+      <workItem from="1713452188229" duration="15000" />
+      <workItem from="1713459255040" duration="1534000" />
+      <workItem from="1713462409639" duration="1159000" />
+      <workItem from="1713472557805" duration="39000" />
+      <workItem from="1713476724691" duration="4624000" />
+      <workItem from="1713491547049" duration="2530000" />
+      <workItem from="1713803797203" duration="1124000" />
+      <workItem from="1713916670225" duration="319000" />
+      <workItem from="1714057330732" duration="31000" />
+      <workItem from="1714057371558" duration="80000" />
+      <workItem from="1714058970402" duration="66000" />
+      <workItem from="1714060813309" duration="53000" />
+      <workItem from="1714150853805" duration="39000" />
+    </task>
+    <task id="LOCAL-00001" summary="Most HTML and CSS">
+      <option name="closed" value="true" />
+      <created>1712449607625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712449607625</updated>
+    </task>
+    <task id="LOCAL-00002" summary="footer fix">
+      <option name="closed" value="true" />
+      <created>1712450085266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712450085266</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Js fixes, CORS header fixes, style changes">
+      <option name="closed" value="true" />
+      <created>1712614931307</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712614931308</updated>
+    </task>
+    <task id="LOCAL-00004" summary="css bug fix">
+      <option name="closed" value="true" />
+      <created>1712615135528</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712615135528</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Final commit with commenting">
+      <option name="closed" value="true" />
+      <created>1712712469594</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712712469594</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Final commit with commenting">
+      <option name="closed" value="true" />
+      <created>1712712658697</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712712658697</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Most HTML and CSS" />
+    <MESSAGE value="footer fix" />
+    <MESSAGE value="Js fixes, CORS header fixes, style changes" />
+    <MESSAGE value="css bug fix" />
+    <MESSAGE value="Final commit with commenting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit with commenting" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
