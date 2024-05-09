@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Chat Server</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <!-- Place favicon.ico in the root directory -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- header display with about page link-->
+<header class="clearfix">
+  <h1>Chat Server</h1>
+  <a href="about.html">About</a>
+  <a href="">Description</a>
+</header>
+
+<!-- container for the interactive portion of the page -->
+<div class="container">
+  <aside>
+    <h2>List of chat rooms</h2>
+    <ul id="ChatList">
+    </ul>
+    <!-- Creating the functionality for the buttons, and inputs to manipulate chat rooms -->
+    <input title="Join room" id="Join" type="text" placeholder="Join a room via code" />
+    <button onclick="newRoom()">Create a new room</button>
+    <button onclick="refresh()">Clear Chatroom List</button>
+  </aside>
+  <main>
+    <!-- Creating the prompts for the user and chat broadcasting functionality-->
+    <div id="Prompt"> </div>
+    <input title="Chat Input" id="input" type="text"/>
+    <textarea title="Chat Log" id="log" readonly></textarea>
+  </main>
+</div>
+
+
+<script src="js/main.js"></script>
+
+<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+<script>
+  window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+  ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
+</script>
+<script src="https://www.google-analytics.com/analytics.js" async></script>
+
+</body>
+</html>
