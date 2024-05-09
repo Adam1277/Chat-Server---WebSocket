@@ -1,0 +1,66 @@
+html{
+    background-image: url("../images/img23.png");
+}
+.container {
+    display: flex;
+    min-height: calc(100vh - 40px);
+}
+
+aside {
+    width: 20%;
+    background-color: aliceblue;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.container aside{
+    background-color: transparent;
+    border-width: thick;
+    height: 300px;
+    background-image: linear-gradient(to top, rgba(255, 255, 255,0), white);
+    padding: 0 0 0 20px;
+}
+header{
+    display: flex;
+    align-items: center;
+    background-size: cover; /* Covers the entire header, might cut off parts of the image */
+    background-position: center; /* Centers the image in the header */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    color: white;
+    overflow: hidden;
+}
+a{
+    background: transparent;
+    color: white;
+    padding: 0 0 0 40px;
+}
+main {
+    width: 75%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+#log{
+    width: 105%;
+    height: 73%;
+    background-color: transparent;
+    border-color: white;
+    border-width: thick;
+    visibility: visible;
+    color: white;
+    background-image: linear-gradient(to top, transparent, 10%, black 100%);
+}
+h1{
+    padding: 0 0 0 20px;
+}
+#input{
+    width: 1032px;
+}
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    padding: 10px;
+    margin-top: auto;
+    color: white;
+}
+
