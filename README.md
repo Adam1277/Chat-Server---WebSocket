@@ -8,23 +8,23 @@ The Chat Server is a real-time communication application that allows multiple us
 
 ## Team members:
 Adam Levere <br>
-Alejandra Belda Manrique
-Muhammad Jibran Khan
+Alejandra Belda Manrique <br>
+Muhammad Jibran Khan <br>
 
 ## Improvements:
 Added a "Clear Chat Rooms" button to the interface, allowing users to clear out the list of chat rooms displayed on the left side of the chatroom interface to prevent clutter.
 
 ## How to run:
-Run your Machines IntelliJ as an administrator
-Clone the repo into a local folder on your machine
-Ensure all files are in appropriate folders (main.js in the js folder, styles.css in the css folder etc...)
-Import all necessary photos
-Open the project in IntelliJ
-Go to Run -> Edit Configurations
-Fill in glassfish server, choice of browser, use this URL http://localhost:8080/WSChatServer-1.0-SNAPSHOT/ws
-Select domain1 as the domain
-Go to deployment tab, deploy artifact abd select WSChatServer:war exploded!
-Now run the glassfish server using green button at the top right
-Navigate to index.html and open with browser of choice
-Now the chat room should be open and functioning, feel free to use any of the functionalities (create new chat rooms, join chat rooms, talk)
+Run your Machines IntelliJ as an administrator <br>
+Clone the repo into a local folder on your machine <br>
+Ensure all files are in appropriate folders (main.js in the js folder, styles.css in the css folder etc...) <br>
+Import all necessary photos <br>
+Open the project in IntelliJ <br>
+Go to Run -> Edit Configurations <br>
+Fill in glassfish server, choice of browser, use this URL http://localhost:8080/WSChatServer-1.0-SNAPSHOT/ws <br>
+Select domain1 as the domain <br>
+Go to deployment tab, deploy artifact abd select WSChatServer:war exploded! <br>
+Now run the glassfish server using green button at the top right <br> 
+Navigate to index.html and open with browser of choice <br> 
+Now the chat room should be open and functioning, feel free to use any of the functionalities (create new chat rooms, join chat rooms, talk) <br>
 
