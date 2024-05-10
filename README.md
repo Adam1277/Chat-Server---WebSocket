@@ -21,9 +21,9 @@ Ensure all files are in appropriate folders (main.js in the js folder, styles.cs
 Import all necessary photos <br>
 Open the project in IntelliJ <br>
 Go to Run -> Edit Configurations <br>
-Fill in glassfish server, choice of browser, use this URL http://localhost:8080/WSChatServer-1.0-SNAPSHOT/ws <br>
+Select the glassfish server, choice of browser, use this URL http://localhost:8080/WSChatServer-1.0-SNAPSHOT/ws <br>
 Select domain1 as the domain <br>
-Go to deployment tab, deploy artifact abd select WSChatServer:war exploded! <br>
+Go to deployment tab, deploy artifact and select WSChatServer:war exploded! <br>
 Now run the glassfish server using green button at the top right <br> 
 Navigate to index.html and open with browser of choice <br> 
 Now the chat room should be open and functioning, feel free to use any of the functionalities (create new chat rooms, join chat rooms, talk) <br>
