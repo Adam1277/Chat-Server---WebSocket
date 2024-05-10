@@ -7,7 +7,7 @@ Web Socket project based on Client-Server technologies.
 The Chat Server is a real-time communication application that allows multiple users to join and interact in different chat rooms. Each chat room is accessed through a unique random alphanumeric code, and users can create new rooms, join existing ones, or refresh the list to see updated room information.
 
 ## Team members:
-Adam Levere
+Adam Levere <br>
 Alejandra Belda Manrique
 Muhammad Jibran Khan
 
