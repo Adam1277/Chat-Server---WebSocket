@@ -1,0 +1,5 @@
+###
+GET http://localhost/api/echo/main
+
+###
+GET http://localhost/api/hello-world
